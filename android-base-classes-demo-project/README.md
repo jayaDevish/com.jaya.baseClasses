@@ -1,0 +1,1 @@
+Base Activity, Fragment, ViewModel
